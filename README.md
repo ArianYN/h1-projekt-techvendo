@@ -29,6 +29,8 @@ Our project utilizes Neon.tech to host the database. [Neon.tech](https://www.neo
 # Team
 This project was developed by a team of three members:
 
-[@ArianYN](https://github.com/ArianYN) (me)
+[@ArianYN](https://github.com/ArianYN)
+
 [@MathiasGermandsen](https://github.com/MathiasGermandsen)
+
 [@alex344b](https://github.com/alex344b)
