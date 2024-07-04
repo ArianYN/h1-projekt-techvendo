@@ -19,7 +19,7 @@ TechVendo is designed to facilitate customer-to-customer transactions of used PC
 
 - **Search and Filter:** Users can search for specific PC parts and filter results based on various criteria.
 
-- **Product Details:** Each product listing includes detailed information and images.
+- **Product Details:** Each product listing includes detailed information and specifications.
 
 - **Collaboration Simulation with Nvidia:** A special section simulates a collaboration with Nvidia, featuring additional graphics card listings.
 
