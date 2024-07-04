@@ -1,22 +1,34 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/GeUOgVxP)
-# H1-Projekt TechVendo
-Her skal alt omkring jeres projekt være. Alle jeres OOP klasser, Diagrammer (UML, Database, mm.), Blazorkode og SQL scripts. 
-Projektet kan findes her - [Notion](https://www.notion.so/mercantec/Projekt-H1-Webshop-3eafa5e658f44a21a7edea55d419c3e8)
+# TechVendo
 
-Det er delt op i 4 mapper 
+Welcome to the TechVendo project repository! This is a school project aimed at creating a platform where users can buy and sell used PC parts. Although it is a school project and lacks features such as payment processing, it connects to a database to manage users and products.
 
-## [BlazorApp](https://github.com/MAGS-Template/H1-Projekt/tree/master/BlazorApp)
-Her er størstedelen af jeres projekt, her har vi alt UI. Det er også vores Blazor Server som skal håndtere vores forbindelse til databasen!
+# Project Overview
+TechVendo is designed to facilitate customer-to-customer transactions of used PC parts. Key functionalities include:
 
-## [Domain Models](https://github.com/MAGS-Template/H1-Projekt/tree/master/Domain%20Models)
-Her er alle jeres klasser, som skal bruges inde i jeres BlazorApp. 
+- **User account creation and login:** Users can register for an account and log in to access the platform's features.
 
-## [Dokumentation](https://github.com/MAGS-Template/H1-Projekt/tree/master/Dokumentation)
-Mappen her er stortset tom, fordi I selv skal udfylde den med jeres dokumentation fra jeres projekt! Der skal være jeres UML diagram, enten bare det nyeste eller alle versioner. 
-Jeres Database diagram som i har lavet med [DrawSQL.app](drawsql.app)
+- **Listing and browsing PC parts for sale:** Users can list their used PC parts for sale and browse listings from other users.
 
-## [SQL-Scripts](https://github.com/MAGS-Template/H1-Projekt/tree/master/SQL-Scripts)
-Vi skal skrive scripts som kan queries mod vores database som enten er hostet lokalt eller på en cloudplatform! Det er vigtigt at gemme dem, så vi bruger mappen her og gemmer dem som .SQL filer. De kan eksekveres med mange GUI's - personligt anbefaler jeg [SQLTools](https://www.notion.so/mercantec/VSCode-Extensions-f4e03a6568ee483f85d9fc018ba6baa7?pvs=4#e439f568d1fe4749afa04ee204f37ac9) som er en udvidelse til VSCode. [TablePlus](https://tableplus.com/) og [HeidiSQL](https://www.heidisql.com/) er også gode bud!
+- **Database connectivity:** The application connects to a database to store and retrieve user and product information.
 
-### Hosting
-Vi kigger på Hosting under H1 forløbet, men vores applikation her burde gerne være live på [Render.com](https://h1-template.onrender.com/)! *Siden bliver inaktiv efter lidt tid, så hvis den ikke loader, er [containeren](https://www.notion.so/mercantec/Containers-a9c3613888d342cca0221c7e0f68a767) ved at starte op!*
+
+# Website Features
+- **Account Management**: Users can create accounts, log in, and manage their profiles.
+
+- **Product Listings:** Users can add, and delete their PC part listings, complete with descriptions and specifications
+
+- **Search and Filter:** Users can search for specific PC parts and filter results based on various criteria.
+
+- **Product Details:** Each product listing includes detailed information and images.
+
+- **Collaboration Simulation with Nvidia:** A special section simulates a collaboration with Nvidia, featuring additional graphics card listings.
+
+# Database Hosting
+Our project utilizes Neon.tech to host the database. Neon.tech provides a reliable and scalable platform for managing our application's data, ensuring smooth performance and accessibility.
+
+Team
+This project was developed by a team of three members:
+
+[Your Name]
+[Team Member 1]
+[Team Member 2]
