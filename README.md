@@ -26,9 +26,9 @@ TechVendo is designed to facilitate customer-to-customer transactions of used PC
 # Database Hosting
 Our project utilizes Neon.tech to host the database. [Neon.tech](https://www.neon.tech) provides a reliable and scalable platform for managing our application's data, ensuring smooth performance and accessibility.
 
-Team
+# Team
 This project was developed by a team of three members:
 
-[Your Name]
-[Team Member 1]
-[Team Member 2]
+[@ArianYN](https://github.com/ArianYN) (me)
+[@MathiasGermandsen](https://github.com/MathiasGermandsen)
+[@alex344b](https://github.com/alex344b)
