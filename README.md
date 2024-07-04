@@ -24,7 +24,7 @@ TechVendo is designed to facilitate customer-to-customer transactions of used PC
 - **Collaboration Simulation with Nvidia:** A special section simulates a collaboration with Nvidia, featuring additional graphics card listings.
 
 # Database Hosting
-Our project utilizes Neon.tech to host the database. [Neon.tech](https://www.neon.tech) provides a reliable and scalable platform for managing our application's data, ensuring smooth performance and accessibility.
+Our project utilizes [Neon.tech](https://www.neon.tech) to host the database. Neon provides a free and reliable platform for managing our application's data, ensuring smooth performance and accessibility.
 
 # Team
 This project was developed by a team of three members:
