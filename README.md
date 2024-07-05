@@ -1,6 +1,6 @@
 # TechVendo
 
-Welcome to the TechVendo project repository! This is a school project aimed at simulating a platform where users can buy and sell used PC parts. Although it is a school project and lacks features such as payment processing, it has authentication and connects to a database to manage users and products.
+Welcome to the TechVendo project repository! This is a school project aimed at simulating a platform where users can buy and sell used PC parts. Although it is a school project and lacks features such as payment processing, it has authentication and connects to a database to manage users and products. TechVendo is developed with Blazor, for the ease of use between regular HTML, CSS and C#
 
 # Project Overview
 TechVendo is designed to facilitate customer-to-customer transactions of used PC parts. Key functionalities include:
