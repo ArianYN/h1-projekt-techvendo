@@ -15,7 +15,7 @@ TechVendo is designed to facilitate customer-to-customer transactions of used PC
 # Website Features
 - **Account Management**: Users can create accounts, log in, and manage their profiles.
 
-- **Product Listings:** Users can add, and delete their PC part listings, complete with descriptions and specifications
+- **Product Listings:** Users can add their PC part listings, complete with descriptions and specifications
 
 - **Search and Filter:** Users can search for specific PC parts and filter results based on various criteria.
 
